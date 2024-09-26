@@ -1,1 +1,5 @@
 gradio
+assemblyai
+translate
+elevenlabs
+python-dotenv
