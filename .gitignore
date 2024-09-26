@@ -2,4 +2,4 @@
 /__pycache__
 .DS_Store
 /flags
-/flagged
+flagged
